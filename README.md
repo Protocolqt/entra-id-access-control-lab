@@ -48,7 +48,27 @@ file, a reminder that real environments rarely match documentation
 defaults exactly.
 
 ## Screenshots
-*(added below)*
+## Screenshots
+![Entra ID users list](01-entra-id-users-list.png)
+*21 users provisioned across 6 departments via bulk CSV import*
+
+![IT-Team group](02-it-team-overview.png)
+*IT department security group membership*
+
+![Finance-Team group](03-finance-team-overview.png)
+*Finance department security group membership*
+
+![All groups overview](04-all-groups-overview.png)
+*All 6 department security groups*
+
+![IT-Resources RBAC assignment](05-it-resources-assigned-to-it-team.png)
+*Reader role assigned to IT-Team group at the resource group scope*
+
+![Finance-Resources RBAC assignment](06-finance-resources-assigned-to-finance-team.png)
+*Reader role assigned to Finance-Team group at the resource group scope*
+
+![Resource Manager overview](07-resource-manager-overview.png)
+*All 5 department-scoped resource groups*
 
 ## Skills Demonstrated
 - Microsoft Entra ID user and group administration
